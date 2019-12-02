@@ -117,8 +117,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 
 
-SOCIAL_AUTH_FACEBOOK_KEY = '1453683151465766'        # App ID
-SOCIAL_AUTH_FACEBOOK_SECRET = 'e91fea9e377a47229a6bffd67d9055a9' # App Secret
+SOCIAL_AUTH_FACEBOOK_KEY = '********************'        # App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = ''********************'' # App Secret
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email', 'user_link']
 SOCIAL_AUTH_FACEBOOK_PROFILE_EXTRA_PARAMS = {
   'fields': 'id, name, email, picture.type(large), link'
